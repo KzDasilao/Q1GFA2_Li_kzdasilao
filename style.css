@@ -118,12 +118,11 @@ img{
 .image p{
     font-size: 15px;
     text-align: center;
-    color: white;
+    color: rgb(9, 9, 198);
 }
 .image span{
     font-size: 10px;
     text-align: center;
-    color: white;
 }
 .sidelinks{
     display: block;

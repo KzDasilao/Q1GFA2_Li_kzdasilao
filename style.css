@@ -116,14 +116,14 @@ img{
     
 }
 .image p{
-    color: white;
     font-size: 15px;
     text-align: center;
+    color: white;
 }
 .image span{
-    color: white;
     font-size: 10px;
     text-align: center;
+    color: white;
 }
 .sidelinks{
     display: block;
